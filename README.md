@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujjwal(Uzol) Dahal</h1>
+<h1 align="center">Hi, Hey and Namaste👋, I'm Ujjwal(Uzol) Dahal</h1>
 <h3 align="center">Full-stack developer & mobile app builder from Nepal — turning ideas into intuitive apps and powerful web platforms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeuzol&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeuzol" /> </p>

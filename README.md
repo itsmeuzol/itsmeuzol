@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ujjwal (Uzol) Dahal
+# Hello, 👋 Hi, Namaste 🙏 I'm Ujjwal (Uzol) Dahal
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+App+Builder;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Turning+Ideas+Into+Reality" alt="Typing SVG" />
